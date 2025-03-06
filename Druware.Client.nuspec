@@ -1,0 +1,29 @@
+<package >
+    <metadata>
+        <id>$id$</id>
+        <version>0.6.0</version>
+        <title>Druware.Client</title>
+        <authors>dru@druware.com</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <license type="file">LICENSE.txt</license>
+        <readme>README.md</readme>
+        <!-- <icon>icon.png</icon> -->
+        <projectUrl>https://github.com/Druware/Druware.Client</projectUrl>
+        <description>
+            This is the core Druware Client class library that implements the
+            foundation logic, including utility functions, classes that are part
+            of the Druware pluggable applications modules.
+        </description>
+        <releaseNotes>
+            Initial release to nuget
+        </releaseNotes>
+        <copyright>Copyright 2019-2025 by:
+            Andy 'Dru' Satori @ Druware Software Designs.
+            All Rights Reserved</copyright>
+        <tags>.net8 webapi</tags>
+    </metadata>
+    <files>
+        <file src=".\LICENSE.txt" target="" />
+        <file src=".\README.md" target="" />
+    </files>
+</package>
